@@ -1,0 +1,7 @@
+.idea/
+cmake-build-*/
+*.o
+*.out
+*.exe
+*.log
+simulation_log.txt
